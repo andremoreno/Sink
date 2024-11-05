@@ -27,7 +27,7 @@ export default defineNuxtConfig({
   },
 
   hub: {
-    ai: true,
+    ai: false,
     analytics: true,
     blob: false,
     cache: false,
